@@ -1,0 +1,58 @@
+[
+  {
+    "local": "Wolfsburgo",
+    "visitante": "Real Madrid",
+    "resultado": {"local": 2, "visitante": 0},
+    "tarjetas_rojas": {"local": 0, "visitante": 0},
+    "clasificado": "Real Madrid"
+  },
+  {
+    "local": "Real Madrid",
+    "visitante": "Wolfsburgo",
+    "resultado": {"local": 3, "visitante": 0},
+    "tarjetas_rojas": {"local": 0, "visitante": 0},
+    "clasificado": "Real Madrid"
+  },
+  {
+    "local": "Bayern Munich",
+    "visitante": "Benfica",
+    "resultado": {"local": 1, "visitante": 0},
+    "tarjetas_rojas": {"local": 0, "visitante": 0},
+    "clasificado": "Bayern Munich"
+  },
+  {
+    "local": "Benfica",
+    "visitante": "Bayern Munich",
+    "resultado": {"local": 2, "visitante": 2},
+    "tarjetas_rojas": {"local": 0, "visitante": 0},
+    "clasificado": "Bayern Munich"
+  },
+  {
+    "local": "Barcelona",
+    "visitante": "Atlético de Madrid",
+    "resultado": {"local": 2, "visitante": 1},
+    "tarjetas_rojas": {"local": 1, "visitante": 0},
+    "clasificado": "Atlético de Madrid"
+  },
+  {
+    "local": "Atlético de Madrid",
+    "visitante": "Barcelona",
+    "resultado": {"local": 2, "visitante": 0},
+    "tarjetas_rojas": {"local": 0, "visitante": 0},
+    "clasificado": "Atlético de Madrid"
+  },
+  {
+    "local": "PSG",
+    "visitante": "Manchester City",
+    "resultado": {"local": 2, "visitante": 2},
+    "tarjetas_rojas": {"local": 1, "visitante": 0},
+    "clasificado": "Manchester City"
+  },
+  {
+    "local": "Manchester City",
+    "visitante": "PSG",
+    "resultado": {"local": 1, "visitante": 0},
+    "tarjetas_rojas": {"local": 0, "visitante": 0},
+    "clasificado": "Manchester City"
+  }
+]
