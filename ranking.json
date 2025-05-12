@@ -1,0 +1,66 @@
+{
+  "series": [
+    {
+      "ranking": 2,
+      "titulo": "Chernobyl"
+    },
+    {
+      "ranking": 4,
+      "titulo": "Black Mirror"
+    },
+    {
+      "ranking": 5,
+      "titulo": "Better Call Saul"
+    },
+    {
+      "ranking": 4,
+      "titulo": "Stranger Things"
+    },
+    {
+      "ranking": 4,
+      "titulo": "The Mandalorian"
+    },
+    {
+      "ranking": 5,
+      "titulo": "Dark"
+    },
+    {
+      "ranking": 4,
+      "titulo": "Mr. Robot"
+    }
+  ],
+  "peliculas": [
+    {
+      "ranking": 1,
+      "titulo": "The Dark Knight"
+    },
+    {
+      "ranking": 3,
+      "titulo": "The Godfather"
+    },
+    {
+      "ranking": 5,
+      "titulo": "Whiplash"
+    },
+    {
+      "ranking": 5,
+      "titulo": "Parasite"
+    },
+    {
+      "ranking": 4,
+      "titulo": "Inception"
+    },
+    {
+      "ranking": 5,
+      "titulo": "Oppenheimer"
+    },
+    {
+      "ranking": 4,
+      "titulo": "Joker"
+    },
+    {
+      "ranking": 5,
+      "titulo": "Interstellar"
+    }
+  ]
+}
